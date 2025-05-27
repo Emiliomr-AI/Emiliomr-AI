@@ -52,8 +52,8 @@ Here’s what I’m building and publishing as part of my learning journey:
 
 ## 🌐 Let's Connect
 
-📫 **LinkedIn**: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)  
-📚 **Coursera Certifications**: [coursera.org/user/tuusuario](https://coursera.org)  
+📫 **LinkedIn**: (https://www.linkedin.com/in/emilio-ai)  
+📚 **Coursera Certifications**:(https://www.coursera.org/learner/ai-emilio))  
 📂 **Projects & Code**: Check pinned repos below 👇
 
 ---
